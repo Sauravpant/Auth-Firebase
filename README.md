@@ -1,5 +1,6 @@
 # Firebase Authentication
 
+
 This project implements Firebase authentication with **Google Sign-In** and **Email/Password** login.
 
 ## Features
